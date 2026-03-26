@@ -1,4 +1,4 @@
-package com.joaovinicius.cadastrodeusuario;
+package com.rodrigooliveira.cadastrodeusuario;
 
 import org.junit.Test;
 
